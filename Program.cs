@@ -1,4 +1,10 @@
-﻿namespace COMP003A.LectureActivity2
+﻿/*
+    Author: Adam Verissimo
+    Course: COMP003A
+    Instructor: Jonathan Cruz
+    Purpose: A program demonstrating statements, variables, and operators.
+*/
+namespace COMP003A.LectureActivity2
 {
     internal class Program
     {
